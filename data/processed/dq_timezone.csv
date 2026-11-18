@@ -1,0 +1,6 @@
+market,timezone_of_export,market_timezone,median_hour_exported,median_hour_local,share_before_8_exported
+DE,UTC,Europe/Berlin,13.0,15.0,0.1187250996
+ES,Europe/Madrid,Europe/Madrid,15.0,15.0,0.0229357798
+FR,Europe/Paris,Europe/Paris,15.0,15.0,0.018419033
+IT,Europe/Rome,Europe/Rome,14.0,14.0,0.0178970917
+UK,Europe/London,Europe/London,15.0,15.0,0.0171606864

@@ -1,0 +1,8 @@
+campaign_id,name,start,end,markets
+C01,Black Friday 2025,2025-11-24,2025-12-01,all
+C02,Holiday gifting 2025,2025-12-02,2025-12-24,all
+C03,Winter sales 2026,2026-01-07,2026-01-31,all
+C04,Spring giveaway (Spain),2026-03-09,2026-03-22,ES
+C05,Spring skincare launch,2026-03-23,2026-04-15,all
+C06,Summer sales 2026,2026-06-24,2026-07-20,all
+C07,Autumn make-up launch,2026-09-15,2026-10-10,all

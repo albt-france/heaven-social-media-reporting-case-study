@@ -1,0 +1,12 @@
+entity,handle,on_bluesky,followers,posts_total,posts_sampled,first_sampled,last_sampled,median_engagement
+Maybelline,maybelline.com,False,,,,,,
+Lancôme,lancome.com,False,,,,,,
+NYX Professional Makeup,nyxcosmetics.com,False,,,,,,
+Garnier,garnier.com,False,,,,,,
+Nivea,nivea.com,False,,,,,,
+CeraVe,cerave.com,False,,,,,,
+La Roche-Posay,laroche-posay.com,False,,,,,,
+Clinique,clinique.com,False,,,,,,
+Rimmel,rimmellondon.com,False,,,,,,
+Fenty Beauty,fentybeauty.com,False,,,,,,
+Hopscotch Groupe,hopscotchgroupe.bsky.social,True,8.0,8.0,6.0,2025-02-04,2025-09-30,0.0

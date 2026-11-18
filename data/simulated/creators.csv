@@ -1,0 +1,501 @@
+creator_id,market,platform,niche,tier,followers,er_followers,audience_own_market,comments_per_like,avg_reach_rate,collab_posts_12m,est_fee_eur
+creator_001,IT,Instagram,skincare,nano,4181,0.0843,0.922,0.0516,0.254,3,46
+creator_002,UK,TikTok,make-up,micro,89080,0.0262,0.615,0.0447,0.189,3,949
+creator_003,UK,Instagram,make-up,nano,7177,0.0476,0.95,0.0289,0.279,3,69
+creator_004,UK,Instagram,make-up,nano,3318,0.063,0.68,0.0595,0.28,4,49
+creator_005,FR,TikTok,lifestyle,nano,16011,0.0502,0.542,0.0595,0.305,3,140
+creator_006,IT,TikTok,lifestyle,micro,33159,0.0385,0.767,0.049,0.41,5,288
+creator_007,FR,Instagram,make-up,nano,10049,0.0566,0.643,0.0475,0.271,0,145
+creator_008,DE,Instagram,skincare,nano,1877,0.036,0.77,0.0523,0.368,3,38
+creator_009,IT,Instagram,skincare,nano,4131,0.0404,0.701,0.0433,0.245,0,48
+creator_010,ES,Instagram,skincare,nano,6754,0.0525,0.768,0.0327,0.306,2,105
+creator_011,UK,Instagram,lifestyle,nano,10739,0.0947,0.887,0.0475,0.31,0,124
+creator_012,IT,Instagram,make-up,nano,10395,0.0608,0.674,0.0549,0.356,2,160
+creator_013,ES,TikTok,make-up,nano,4279,0.0434,0.9,0.0379,0.325,2,57
+creator_014,UK,YouTube,skincare,micro,21801,0.0387,0.738,0.0512,0.258,1,208
+creator_015,UK,Instagram,make-up,micro,42266,0.0514,0.95,0.0272,0.31,7,318
+creator_016,ES,Instagram,skincare,macro,900522,0.0185,0.709,0.055,0.38,5,5630
+creator_017,FR,YouTube,make-up,nano,11508,0.0491,0.801,0.0494,0.403,1,188
+creator_018,IT,TikTok,skincare,nano,10144,0.0502,0.653,0.0398,0.233,3,98
+creator_019,UK,Instagram,lifestyle,nano,4707,0.0591,0.677,0.0675,0.391,2,54
+creator_020,FR,YouTube,hair & fragrance,micro,35749,0.0273,0.743,0.0565,0.24,6,419
+creator_021,IT,YouTube,skincare,nano,17315,0.0544,0.864,0.0417,0.368,3,187
+creator_022,UK,Instagram,skincare,macro,364940,0.0028,0.21,0.006,0.268,2,1113
+creator_023,DE,TikTok,skincare,micro,19070,0.0605,0.749,0.0422,0.32,1,206
+creator_024,ES,Instagram,skincare,nano,7178,0.0535,0.812,0.0445,0.309,3,104
+creator_025,FR,TikTok,make-up,nano,3849,0.0524,0.864,0.0342,0.308,1,58
+creator_026,FR,YouTube,make-up,micro,106386,0.0253,0.752,0.0544,0.465,4,544
+creator_027,FR,TikTok,make-up,nano,2719,0.0535,0.77,0.0676,0.245,2,40
+creator_028,FR,TikTok,make-up,micro,22190,0.0401,0.852,0.0479,0.19,0,290
+creator_029,FR,Instagram,make-up,nano,10667,0.0316,0.828,0.0231,0.338,3,185
+creator_030,UK,TikTok,skincare,micro,51524,0.031,0.756,0.0238,0.222,0,312
+creator_031,FR,YouTube,skincare,macro,212296,0.0149,0.797,0.053,0.227,5,1926
+creator_032,ES,TikTok,skincare,micro,41696,0.0601,0.533,0.0514,0.3,3,346
+creator_033,FR,Instagram,lifestyle,micro,30589,0.0374,0.696,0.0452,0.274,2,435
+creator_034,UK,YouTube,lifestyle,nano,7979,0.1259,0.681,0.0445,0.196,1,82
+creator_035,ES,Instagram,make-up,nano,4371,0.0515,0.723,0.0487,0.459,4,50
+creator_036,FR,TikTok,make-up,nano,7608,0.0382,0.621,0.0277,0.207,1,108
+creator_037,FR,YouTube,make-up,micro,23583,0.0253,0.696,0.0347,0.185,1,467
+creator_038,UK,Instagram,skincare,micro,113011,0.0346,0.81,0.0541,0.144,3,872
+creator_039,UK,TikTok,make-up,nano,4503,0.0626,0.659,0.0738,0.355,0,61
+creator_040,UK,Instagram,lifestyle,micro,65297,0.0529,0.672,0.0488,0.294,6,393
+creator_041,ES,TikTok,hair & fragrance,nano,5890,0.0688,0.676,0.0338,0.265,2,101
+creator_042,DE,Instagram,lifestyle,nano,5878,0.0811,0.813,0.0454,0.264,2,68
+creator_043,ES,Instagram,hair & fragrance,nano,6382,0.048,0.639,0.0661,0.258,3,43
+creator_044,ES,TikTok,hair & fragrance,nano,9719,0.0483,0.589,0.0306,0.251,2,117
+creator_045,UK,Instagram,lifestyle,nano,2636,0.0443,0.747,0.0388,0.253,3,57
+creator_046,DE,Instagram,skincare,micro,52899,0.0264,0.758,0.0493,0.29,3,377
+creator_047,IT,Instagram,make-up,micro,70482,0.0387,0.681,0.0729,0.41,4,688
+creator_048,FR,Instagram,make-up,nano,11225,0.0477,0.748,0.0491,0.218,2,128
+creator_049,DE,Instagram,lifestyle,nano,8427,0.0545,0.741,0.0472,0.385,1,85
+creator_050,FR,TikTok,lifestyle,nano,14297,0.041,0.64,0.0473,0.289,1,239
+creator_051,ES,Instagram,make-up,macro,257299,0.0142,0.68,0.0549,0.409,2,2493
+creator_052,DE,TikTok,skincare,nano,4657,0.0468,0.872,0.0404,0.256,2,58
+creator_053,FR,TikTok,lifestyle,macro,316433,0.0128,0.575,0.0342,0.167,2,1938
+creator_054,ES,Instagram,make-up,micro,66513,0.0264,0.602,0.0216,0.231,1,360
+creator_055,ES,Instagram,skincare,micro,15297,0.0346,0.758,0.0693,0.299,2,143
+creator_056,FR,Instagram,skincare,micro,22177,0.0454,0.832,0.04,0.359,1,147
+creator_057,ES,Instagram,make-up,nano,5080,0.072,0.692,0.0401,0.261,2,62
+creator_058,IT,Instagram,skincare,micro,104586,0.0235,0.64,0.0554,0.348,0,1007
+creator_059,UK,Instagram,lifestyle,micro,55459,0.0371,0.681,0.0405,0.272,2,553
+creator_060,DE,YouTube,skincare,macro,1427778,0.0188,0.822,0.0628,0.206,3,7200
+creator_061,UK,Instagram,hair & fragrance,nano,4307,0.0511,0.552,0.0379,0.386,0,68
+creator_062,DE,Instagram,lifestyle,micro,41976,0.0436,0.759,0.064,0.151,4,364
+creator_063,ES,TikTok,lifestyle,micro,66804,0.0219,0.75,0.0436,0.33,1,717
+creator_064,UK,Instagram,make-up,micro,42433,0.027,0.678,0.0105,0.397,3,743
+creator_065,FR,TikTok,skincare,nano,12346,0.0725,0.667,0.0567,0.322,0,163
+creator_066,FR,TikTok,skincare,micro,66895,0.0334,0.95,0.0537,0.315,3,1122
+creator_067,ES,Instagram,lifestyle,micro,71458,0.0289,0.793,0.0434,0.154,4,1040
+creator_068,FR,Instagram,make-up,nano,7515,0.0787,0.623,0.0331,0.308,1,78
+creator_069,DE,Instagram,skincare,nano,6747,0.0415,0.62,0.0688,0.384,3,69
+creator_070,UK,Instagram,make-up,nano,5447,0.0715,0.596,0.0303,0.29,0,87
+creator_071,FR,YouTube,skincare,micro,93896,0.021,0.628,0.0506,0.377,1,776
+creator_072,ES,Instagram,make-up,nano,11633,0.0467,0.694,0.044,0.357,2,136
+creator_073,UK,TikTok,make-up,micro,27844,0.0231,0.63,0.0663,0.198,8,526
+creator_074,FR,YouTube,make-up,micro,107751,0.0249,0.743,0.0519,0.397,3,990
+creator_075,IT,Instagram,make-up,nano,8906,0.0444,0.808,0.0546,0.216,2,56
+creator_076,UK,Instagram,skincare,nano,3327,0.0747,0.777,0.0404,0.329,4,77
+creator_077,UK,Instagram,make-up,macro,130136,0.0234,0.782,0.0509,0.26,4,1076
+creator_078,UK,TikTok,lifestyle,nano,4996,0.0448,0.589,0.0483,0.255,3,80
+creator_079,UK,TikTok,skincare,nano,13415,0.0624,0.759,0.0355,0.34,4,172
+creator_080,IT,YouTube,make-up,micro,24972,0.0403,0.855,0.0273,0.127,3,314
+creator_081,DE,Instagram,skincare,micro,41728,0.0275,0.849,0.0453,0.244,1,271
+creator_082,ES,Instagram,skincare,nano,4021,0.0553,0.728,0.0478,0.212,1,98
+creator_083,FR,YouTube,hair & fragrance,nano,4703,0.0485,0.842,0.0726,0.388,3,109
+creator_084,UK,Instagram,make-up,micro,86023,0.0623,0.667,0.0459,0.459,1,570
+creator_085,IT,TikTok,skincare,micro,45664,0.0288,0.586,0.0363,0.16,2,481
+creator_086,FR,Instagram,make-up,nano,2407,0.0404,0.611,0.0471,0.228,1,38
+creator_087,ES,TikTok,hair & fragrance,micro,26462,0.0339,0.629,0.0476,0.167,5,365
+creator_088,UK,Instagram,lifestyle,micro,13459,0.0152,0.867,0.0567,0.276,1,221
+creator_089,ES,TikTok,make-up,micro,53328,0.0274,0.648,0.029,0.332,3,539
+creator_090,UK,Instagram,skincare,macro,407749,0.0159,0.605,0.0328,0.384,5,4572
+creator_091,ES,TikTok,skincare,nano,15347,0.0394,0.637,0.0401,0.278,1,144
+creator_092,DE,Instagram,skincare,macro,200956,0.0213,0.668,0.0184,0.284,3,1306
+creator_093,UK,TikTok,skincare,nano,6190,0.0451,0.781,0.0666,0.177,0,180
+creator_094,UK,Instagram,skincare,macro,334200,0.0231,0.674,0.0272,0.234,1,4872
+creator_095,ES,Instagram,lifestyle,nano,7751,0.0511,0.541,0.0576,0.226,0,116
+creator_096,DE,TikTok,make-up,nano,2892,0.0573,0.628,0.0522,0.231,1,61
+creator_097,FR,Instagram,skincare,micro,79854,0.029,0.806,0.0236,0.294,5,480
+creator_098,DE,TikTok,skincare,micro,25549,0.0389,0.638,0.0557,0.37,1,259
+creator_099,DE,YouTube,make-up,nano,10775,0.023,0.769,0.0529,0.313,4,163
+creator_100,ES,Instagram,make-up,nano,19277,0.1118,0.767,0.0498,0.358,0,219
+creator_101,DE,Instagram,skincare,nano,13275,0.0824,0.637,0.0371,0.34,2,155
+creator_102,ES,Instagram,skincare,micro,33046,0.0377,0.828,0.0328,0.322,3,367
+creator_103,FR,YouTube,make-up,nano,6887,0.0324,0.776,0.0218,0.349,1,117
+creator_104,UK,TikTok,lifestyle,nano,9404,0.0355,0.79,0.0361,0.189,4,131
+creator_105,IT,Instagram,make-up,micro,16937,0.0693,0.95,0.053,0.369,2,204
+creator_106,FR,TikTok,make-up,nano,7195,0.0562,0.829,0.0624,0.224,1,87
+creator_107,UK,YouTube,skincare,micro,135636,0.0277,0.647,0.0471,0.3,1,1271
+creator_108,IT,Instagram,make-up,micro,27900,0.0351,0.634,0.038,0.266,3,273
+creator_109,DE,Instagram,hair & fragrance,micro,102327,0.0374,0.929,0.0171,0.123,1,626
+creator_110,IT,Instagram,skincare,nano,4099,0.0835,0.681,0.0839,0.32,3,53
+creator_111,FR,Instagram,skincare,nano,11615,0.0621,0.618,0.0368,0.423,2,137
+creator_112,UK,Instagram,make-up,nano,8382,0.0612,0.835,0.0517,0.353,3,70
+creator_113,IT,TikTok,make-up,nano,7435,0.0349,0.848,0.0132,0.267,1,67
+creator_114,FR,TikTok,make-up,nano,10566,0.0479,0.71,0.0659,0.225,7,164
+creator_115,IT,Instagram,make-up,nano,5074,0.0662,0.732,0.0589,0.374,1,60
+creator_116,UK,TikTok,make-up,micro,106966,0.0387,0.682,0.0338,0.269,3,1117
+creator_117,FR,Instagram,lifestyle,nano,10643,0.0713,0.574,0.0347,0.081,2,201
+creator_118,FR,TikTok,lifestyle,micro,30928,0.0343,0.575,0.0582,0.233,3,302
+creator_119,UK,Instagram,skincare,nano,5823,0.0385,0.648,0.0545,0.195,2,61
+creator_120,FR,Instagram,lifestyle,nano,8168,0.0595,0.528,0.0656,0.413,1,83
+creator_121,DE,TikTok,lifestyle,micro,16713,0.0267,0.809,0.0358,0.222,3,152
+creator_122,IT,TikTok,make-up,micro,48017,0.023,0.863,0.0469,0.311,4,421
+creator_123,IT,TikTok,skincare,macro,341596,0.0166,0.78,0.0461,0.229,3,2288
+creator_124,FR,TikTok,hair & fragrance,micro,83680,0.0267,0.748,0.0584,0.232,4,1274
+creator_125,IT,Instagram,skincare,nano,9272,0.0313,0.729,0.0356,0.183,2,107
+creator_126,DE,Instagram,skincare,nano,5138,0.0474,0.78,0.071,0.228,2,66
+creator_127,UK,Instagram,make-up,nano,5688,0.0589,0.705,0.0296,0.21,0,54
+creator_128,IT,YouTube,skincare,macro,1122481,0.0181,0.786,0.0466,0.241,0,7189
+creator_129,FR,YouTube,lifestyle,macro,499271,0.0115,0.753,0.0379,0.248,4,2551
+creator_130,FR,TikTok,hair & fragrance,nano,3506,0.077,0.785,0.0732,0.282,2,47
+creator_131,DE,TikTok,make-up,nano,12589,0.038,0.709,0.0558,0.319,0,196
+creator_132,ES,TikTok,lifestyle,nano,5297,0.0801,0.802,0.049,0.335,2,92
+creator_133,FR,Instagram,skincare,micro,148057,0.0291,0.871,0.0564,0.273,4,1470
+creator_134,UK,TikTok,skincare,nano,3335,0.0396,0.846,0.0287,0.359,4,75
+creator_135,ES,TikTok,make-up,micro,93671,0.0552,0.733,0.0484,0.248,3,730
+creator_136,UK,Instagram,make-up,nano,3822,0.0379,0.674,0.0295,0.264,0,50
+creator_137,DE,Instagram,skincare,nano,2944,0.0506,0.756,0.0284,0.274,1,38
+creator_138,DE,Instagram,skincare,micro,86420,0.0318,0.757,0.0629,0.272,4,977
+creator_139,DE,Instagram,make-up,nano,9751,0.0533,0.882,0.048,0.311,2,86
+creator_140,ES,Instagram,lifestyle,micro,73499,0.0468,0.679,0.0171,0.219,3,929
+creator_141,UK,Instagram,hair & fragrance,nano,3684,0.1041,0.527,0.0197,0.364,4,51
+creator_142,UK,Instagram,lifestyle,nano,6111,0.0552,0.863,0.0454,0.417,3,66
+creator_143,DE,TikTok,lifestyle,micro,41694,0.0431,0.678,0.0344,0.189,4,374
+creator_144,UK,TikTok,skincare,micro,51068,0.0296,0.535,0.0456,0.253,2,452
+creator_145,FR,YouTube,make-up,micro,79576,0.0315,0.579,0.0521,0.274,2,694
+creator_146,UK,Instagram,skincare,nano,7189,0.0825,0.642,0.0366,0.208,0,93
+creator_147,ES,Instagram,make-up,nano,12271,0.0261,0.658,0.0372,0.188,4,154
+creator_148,FR,Instagram,make-up,nano,11873,0.0676,0.76,0.0465,0.366,3,109
+creator_149,ES,Instagram,make-up,nano,6471,0.0953,0.723,0.0255,0.258,2,86
+creator_150,IT,Instagram,skincare,macro,821683,0.0291,0.581,0.0528,0.45,0,4515
+creator_151,DE,TikTok,skincare,micro,94947,0.0279,0.718,0.0481,0.266,3,895
+creator_152,IT,TikTok,make-up,nano,11772,0.0701,0.705,0.0465,0.358,0,146
+creator_153,FR,Instagram,lifestyle,micro,54036,0.0351,0.601,0.0114,0.309,2,646
+creator_154,IT,TikTok,skincare,micro,30330,0.0211,0.858,0.0326,0.216,5,255
+creator_155,FR,Instagram,make-up,micro,31669,0.0542,0.55,0.0402,0.336,4,436
+creator_156,UK,TikTok,skincare,micro,89192,0.0402,0.69,0.0586,0.299,4,1050
+creator_157,IT,YouTube,make-up,nano,7174,0.0374,0.904,0.0489,0.332,3,61
+creator_158,IT,Instagram,skincare,nano,14327,0.0867,0.837,0.073,0.189,0,172
+creator_159,FR,TikTok,skincare,nano,8658,0.0742,0.685,0.0313,0.204,3,59
+creator_160,FR,Instagram,lifestyle,macro,218703,0.0164,0.648,0.0191,0.255,3,1327
+creator_161,DE,Instagram,skincare,nano,4344,0.0591,0.578,0.0572,0.143,2,37
+creator_162,ES,Instagram,make-up,nano,14884,0.0662,0.814,0.01,0.279,2,150
+creator_163,UK,Instagram,make-up,micro,164058,0.0274,0.59,0.0624,0.201,3,933
+creator_164,FR,TikTok,skincare,nano,11618,0.0715,0.759,0.0381,0.188,2,142
+creator_165,DE,Instagram,skincare,nano,9453,0.0407,0.874,0.0545,0.266,4,144
+creator_166,IT,Instagram,skincare,nano,15091,0.0736,0.656,0.0635,0.243,1,150
+creator_167,FR,Instagram,skincare,micro,15625,0.0357,0.802,0.0306,0.288,2,129
+creator_168,UK,TikTok,make-up,micro,70102,0.0219,0.87,0.0178,0.247,4,657
+creator_169,FR,TikTok,skincare,micro,80655,0.0216,0.58,0.0627,0.213,2,577
+creator_170,ES,TikTok,make-up,nano,7694,0.0467,0.739,0.0455,0.45,2,113
+creator_171,FR,Instagram,skincare,nano,10918,0.0507,0.869,0.0488,0.222,3,143
+creator_172,IT,Instagram,lifestyle,macro,1281812,0.0201,0.594,0.0278,0.337,2,11499
+creator_173,UK,YouTube,lifestyle,nano,3214,0.0475,0.662,0.025,0.142,2,36
+creator_174,DE,TikTok,make-up,micro,85515,0.0412,0.707,0.037,0.297,3,910
+creator_175,FR,Instagram,lifestyle,micro,14488,0.0338,0.76,0.0344,0.258,6,143
+creator_176,FR,YouTube,skincare,micro,32282,0.0298,0.786,0.078,0.322,3,289
+creator_177,IT,TikTok,make-up,macro,276079,0.01,0.66,0.0384,0.204,2,1637
+creator_178,FR,TikTok,make-up,nano,3654,0.0934,0.804,0.0428,0.196,0,44
+creator_179,FR,TikTok,skincare,nano,2812,0.0666,0.885,0.0359,0.303,3,35
+creator_180,ES,YouTube,skincare,micro,120544,0.0534,0.841,0.0138,0.265,1,957
+creator_181,FR,YouTube,skincare,nano,2894,0.0462,0.581,0.0419,0.261,2,63
+creator_182,ES,Instagram,hair & fragrance,micro,26667,0.0226,0.699,0.0452,0.321,5,340
+creator_183,IT,TikTok,make-up,nano,4711,0.0594,0.69,0.01,0.298,1,56
+creator_184,ES,Instagram,hair & fragrance,nano,9690,0.0505,0.665,0.0568,0.374,1,99
+creator_185,ES,YouTube,make-up,micro,49797,0.0498,0.764,0.0484,0.218,1,380
+creator_186,FR,Instagram,skincare,micro,21586,0.0376,0.737,0.0545,0.155,4,208
+creator_187,FR,Instagram,make-up,micro,130877,0.029,0.719,0.0388,0.338,8,1317
+creator_188,FR,Instagram,hair & fragrance,micro,40854,0.0309,0.734,0.0708,0.324,4,236
+creator_189,FR,Instagram,make-up,micro,58410,0.0238,0.572,0.0422,0.323,3,864
+creator_190,FR,TikTok,make-up,nano,12946,0.0724,0.813,0.01,0.299,3,171
+creator_191,IT,Instagram,hair & fragrance,nano,18708,0.0427,0.736,0.0628,0.18,1,140
+creator_192,DE,TikTok,hair & fragrance,nano,9993,0.0344,0.605,0.0445,0.328,1,112
+creator_193,ES,Instagram,make-up,nano,4411,0.0721,0.864,0.0625,0.37,1,50
+creator_194,ES,TikTok,hair & fragrance,nano,6776,0.039,0.8,0.0161,0.291,0,95
+creator_195,DE,Instagram,hair & fragrance,nano,8331,0.0445,0.779,0.0692,0.22,0,147
+creator_196,FR,Instagram,skincare,micro,15141,0.0313,0.535,0.0273,0.2,6,237
+creator_197,DE,Instagram,lifestyle,micro,134496,0.0415,0.536,0.01,0.156,3,1509
+creator_198,UK,Instagram,skincare,nano,4218,0.0587,0.769,0.0474,0.283,0,80
+creator_199,FR,Instagram,skincare,micro,193729,0.0374,0.9,0.047,0.303,4,1900
+creator_200,ES,TikTok,skincare,nano,9246,0.0637,0.922,0.0604,0.169,3,116
+creator_201,IT,TikTok,skincare,micro,18217,0.0224,0.787,0.0479,0.334,1,217
+creator_202,FR,YouTube,make-up,micro,16075,0.0579,0.888,0.0407,0.348,6,138
+creator_203,DE,TikTok,hair & fragrance,micro,19151,0.0281,0.915,0.0656,0.323,3,296
+creator_204,DE,TikTok,skincare,macro,714519,0.0143,0.835,0.0405,0.221,4,6692
+creator_205,UK,Instagram,skincare,nano,8429,0.0492,0.643,0.043,0.346,0,151
+creator_206,UK,TikTok,skincare,macro,1108215,0.0156,0.864,0.0369,0.29,3,7957
+creator_207,ES,Instagram,hair & fragrance,nano,7153,0.034,0.793,0.0409,0.3,3,119
+creator_208,UK,Instagram,hair & fragrance,micro,17040,0.0317,0.577,0.0496,0.256,2,118
+creator_209,ES,Instagram,make-up,micro,23962,0.0197,0.643,0.073,0.363,3,240
+creator_210,FR,TikTok,make-up,micro,84898,0.0327,0.67,0.0361,0.2,2,1086
+creator_211,DE,TikTok,skincare,micro,109966,0.0387,0.825,0.0403,0.24,3,1254
+creator_212,ES,TikTok,make-up,nano,16693,0.0405,0.887,0.0425,0.185,3,155
+creator_213,FR,TikTok,skincare,nano,9433,0.0417,0.773,0.0272,0.414,0,111
+creator_214,UK,Instagram,lifestyle,micro,21661,0.0414,0.761,0.0595,0.249,6,327
+creator_215,FR,Instagram,skincare,micro,100641,0.0221,0.592,0.038,0.261,3,904
+creator_216,UK,Instagram,skincare,micro,64964,0.0203,0.624,0.0487,0.377,1,1082
+creator_217,DE,TikTok,skincare,micro,58014,0.0469,0.596,0.0249,0.308,2,418
+creator_218,DE,TikTok,skincare,nano,9133,0.0556,0.658,0.0487,0.287,0,69
+creator_219,DE,TikTok,skincare,macro,655474,0.0335,0.718,0.0362,0.317,0,8221
+creator_220,UK,TikTok,skincare,nano,8604,0.0505,0.774,0.0485,0.331,2,99
+creator_221,UK,Instagram,lifestyle,macro,168541,0.0213,0.698,0.0557,0.348,3,1496
+creator_222,UK,Instagram,skincare,micro,49696,0.0257,0.864,0.0345,0.344,4,353
+creator_223,UK,Instagram,make-up,nano,6646,0.033,0.638,0.0489,0.268,0,67
+creator_224,DE,TikTok,skincare,nano,4048,0.0327,0.932,0.079,0.431,1,43
+creator_225,IT,Instagram,lifestyle,nano,6688,0.0753,0.758,0.0543,0.312,3,113
+creator_226,FR,Instagram,lifestyle,nano,11156,0.056,0.865,0.0218,0.338,5,187
+creator_227,UK,Instagram,hair & fragrance,nano,7165,0.0709,0.533,0.041,0.261,1,62
+creator_228,FR,YouTube,hair & fragrance,nano,4349,0.0571,0.793,0.051,0.226,0,47
+creator_229,UK,YouTube,make-up,nano,13286,0.0551,0.704,0.0463,0.258,1,129
+creator_230,IT,Instagram,skincare,micro,98143,0.0381,0.666,0.0531,0.352,1,1286
+creator_231,FR,TikTok,lifestyle,macro,322499,0.0203,0.786,0.053,0.307,4,2044
+creator_232,FR,Instagram,skincare,nano,3398,0.0413,0.727,0.0639,0.325,5,43
+creator_233,FR,TikTok,skincare,macro,411171,0.0195,0.629,0.0253,0.436,3,2631
+creator_234,IT,TikTok,make-up,nano,5042,0.0454,0.656,0.0324,0.321,2,44
+creator_235,FR,TikTok,skincare,nano,5892,0.0469,0.642,0.0331,0.339,2,90
+creator_236,IT,Instagram,make-up,micro,18481,0.0291,0.611,0.0665,0.408,1,147
+creator_237,FR,Instagram,lifestyle,macro,848027,0.0142,0.537,0.0514,0.293,5,8930
+creator_238,DE,TikTok,make-up,nano,3879,0.047,0.742,0.0414,0.316,2,61
+creator_239,IT,TikTok,lifestyle,micro,73021,0.0559,0.795,0.0325,0.142,5,685
+creator_240,ES,TikTok,make-up,micro,51468,0.0436,0.653,0.0458,0.308,3,356
+creator_241,IT,Instagram,make-up,micro,40598,0.0304,0.629,0.0684,0.335,5,273
+creator_242,DE,Instagram,make-up,nano,10313,0.0456,0.733,0.0468,0.257,1,69
+creator_243,UK,Instagram,skincare,nano,3927,0.0601,0.637,0.0511,0.42,0,40
+creator_244,DE,Instagram,make-up,nano,7225,0.0466,0.618,0.0276,0.296,2,82
+creator_245,UK,Instagram,skincare,micro,18276,0.0205,0.719,0.075,0.409,2,227
+creator_246,DE,Instagram,skincare,micro,97051,0.0402,0.852,0.0246,0.344,2,1033
+creator_247,UK,Instagram,skincare,micro,47527,0.0293,0.85,0.0322,0.284,1,434
+creator_248,DE,Instagram,skincare,nano,11857,0.0389,0.688,0.0543,0.213,2,135
+creator_249,ES,Instagram,make-up,nano,8747,0.0482,0.549,0.0441,0.204,4,119
+creator_250,DE,TikTok,make-up,nano,4921,0.0365,0.761,0.0301,0.349,3,48
+creator_251,IT,Instagram,lifestyle,nano,5846,0.0356,0.634,0.0695,0.303,1,84
+creator_252,ES,YouTube,skincare,nano,5964,0.0541,0.831,0.0427,0.163,4,119
+creator_253,IT,YouTube,skincare,micro,61867,0.0512,0.738,0.0163,0.378,6,1159
+creator_254,ES,TikTok,skincare,micro,122257,0.0451,0.92,0.0508,0.265,1,832
+creator_255,ES,Instagram,skincare,nano,3264,0.0649,0.639,0.0438,0.216,1,79
+creator_256,UK,Instagram,make-up,nano,5624,0.0682,0.614,0.0495,0.247,3,86
+creator_257,FR,Instagram,make-up,nano,4469,0.0499,0.82,0.0631,0.162,1,33
+creator_258,FR,Instagram,skincare,nano,3375,0.0717,0.646,0.0264,0.254,0,47
+creator_259,ES,Instagram,make-up,nano,10524,0.0536,0.678,0.0271,0.346,3,210
+creator_260,FR,Instagram,hair & fragrance,macro,281438,0.0392,0.726,0.0694,0.211,2,2019
+creator_261,IT,Instagram,skincare,nano,5454,0.0315,0.613,0.0403,0.221,2,36
+creator_262,FR,Instagram,make-up,nano,13839,0.0477,0.601,0.0384,0.333,1,199
+creator_263,ES,Instagram,make-up,nano,11198,0.0277,0.714,0.0668,0.175,1,60
+creator_264,UK,Instagram,make-up,nano,5216,0.041,0.95,0.0342,0.455,1,49
+creator_265,FR,Instagram,make-up,nano,4983,0.0388,0.814,0.0572,0.202,3,78
+creator_266,IT,Instagram,make-up,nano,8613,0.0633,0.676,0.0557,0.398,2,120
+creator_267,IT,TikTok,make-up,micro,13831,0.0557,0.738,0.0551,0.403,2,175
+creator_268,IT,Instagram,skincare,micro,11868,0.0208,0.595,0.0678,0.342,1,198
+creator_269,UK,TikTok,skincare,nano,8728,0.0634,0.802,0.0452,0.105,4,197
+creator_270,UK,Instagram,skincare,micro,92677,0.0426,0.667,0.0424,0.261,3,738
+creator_271,IT,Instagram,skincare,micro,47798,0.052,0.746,0.0477,0.211,1,460
+creator_272,FR,Instagram,make-up,nano,3103,0.051,0.639,0.01,0.199,0,33
+creator_273,UK,Instagram,skincare,micro,173899,0.0401,0.826,0.0278,0.287,2,1429
+creator_274,FR,Instagram,skincare,micro,29979,0.0235,0.703,0.0561,0.223,4,321
+creator_275,FR,TikTok,skincare,nano,3857,0.0698,0.897,0.035,0.19,0,79
+creator_276,UK,TikTok,make-up,nano,12121,0.0399,0.627,0.0568,0.181,4,159
+creator_277,ES,TikTok,skincare,nano,19721,0.052,0.879,0.025,0.149,3,195
+creator_278,FR,Instagram,skincare,nano,4181,0.0639,0.803,0.052,0.371,2,64
+creator_279,IT,Instagram,make-up,micro,158680,0.0341,0.764,0.0479,0.311,2,1363
+creator_280,UK,TikTok,make-up,nano,8794,0.0771,0.727,0.043,0.314,1,100
+creator_281,FR,Instagram,lifestyle,nano,3764,0.048,0.632,0.0363,0.28,1,74
+creator_282,FR,Instagram,lifestyle,micro,32456,0.0363,0.72,0.0429,0.135,3,333
+creator_283,DE,Instagram,make-up,micro,95897,0.0209,0.741,0.0351,0.347,3,741
+creator_284,FR,TikTok,make-up,nano,10691,0.0682,0.838,0.0623,0.385,0,147
+creator_285,UK,Instagram,skincare,micro,111194,0.0428,0.641,0.073,0.199,2,1257
+creator_286,FR,Instagram,skincare,micro,93237,0.0343,0.735,0.0394,0.329,3,862
+creator_287,FR,Instagram,skincare,micro,68288,0.0349,0.821,0.0569,0.253,6,480
+creator_288,FR,YouTube,make-up,nano,3472,0.0449,0.642,0.0702,0.387,4,57
+creator_289,FR,TikTok,skincare,macro,957316,0.0159,0.627,0.0492,0.237,5,7266
+creator_290,ES,Instagram,make-up,nano,13375,0.0573,0.899,0.0413,0.282,0,190
+creator_291,UK,TikTok,skincare,nano,3325,0.0686,0.649,0.0489,0.212,2,44
+creator_292,IT,Instagram,make-up,nano,3712,0.0728,0.591,0.0513,0.241,3,42
+creator_293,UK,Instagram,hair & fragrance,nano,9901,0.0787,0.698,0.0449,0.187,2,94
+creator_294,DE,Instagram,skincare,micro,34816,0.0186,0.635,0.0235,0.38,3,266
+creator_295,ES,Instagram,skincare,nano,5803,0.0866,0.708,0.0315,0.224,1,68
+creator_296,UK,Instagram,make-up,macro,230739,0.0301,0.717,0.0359,0.129,3,2334
+creator_297,ES,Instagram,hair & fragrance,micro,29872,0.0426,0.738,0.01,0.234,2,146
+creator_298,FR,TikTok,make-up,micro,117003,0.0379,0.714,0.0255,0.255,1,1078
+creator_299,DE,TikTok,skincare,micro,20798,0.0284,0.869,0.0317,0.243,3,154
+creator_300,UK,Instagram,make-up,nano,1590,0.0702,0.844,0.0219,0.05,2,40
+creator_301,ES,YouTube,skincare,micro,31322,0.0244,0.839,0.0269,0.315,4,218
+creator_302,FR,TikTok,skincare,micro,50012,0.0166,0.726,0.0546,0.334,2,416
+creator_303,ES,TikTok,make-up,macro,464316,0.0199,0.765,0.05,0.302,5,2847
+creator_304,UK,TikTok,hair & fragrance,macro,265231,0.0143,0.823,0.0367,0.191,3,2551
+creator_305,UK,TikTok,make-up,nano,3887,0.0388,0.723,0.0619,0.272,1,63
+creator_306,FR,YouTube,skincare,micro,18617,0.028,0.809,0.0595,0.257,3,179
+creator_307,FR,YouTube,hair & fragrance,macro,604090,0.0146,0.706,0.0281,0.211,3,3984
+creator_308,ES,Instagram,skincare,nano,4798,0.0292,0.771,0.047,0.307,2,50
+creator_309,IT,TikTok,skincare,micro,29907,0.0291,0.752,0.0363,0.385,2,274
+creator_310,DE,TikTok,skincare,nano,6528,0.055,0.731,0.01,0.263,4,92
+creator_311,FR,Instagram,lifestyle,micro,125404,0.0339,0.574,0.0862,0.13,2,1983
+creator_312,IT,Instagram,make-up,nano,7180,0.0634,0.725,0.0213,0.277,1,102
+creator_313,DE,TikTok,skincare,nano,6932,0.0674,0.736,0.0167,0.29,4,86
+creator_314,FR,Instagram,skincare,nano,8671,0.0525,0.801,0.0313,0.33,1,220
+creator_315,FR,TikTok,make-up,macro,1008605,0.0269,0.629,0.0752,0.124,2,5810
+creator_316,FR,TikTok,skincare,nano,9574,0.069,0.742,0.0486,0.163,0,108
+creator_317,FR,YouTube,make-up,nano,8206,0.0429,0.651,0.045,0.225,1,144
+creator_318,ES,YouTube,hair & fragrance,micro,77651,0.0493,0.722,0.0539,0.339,2,837
+creator_319,UK,Instagram,hair & fragrance,nano,5909,0.0654,0.801,0.0204,0.187,1,73
+creator_320,DE,TikTok,hair & fragrance,nano,3190,0.0527,0.74,0.0549,0.268,0,30
+creator_321,FR,YouTube,hair & fragrance,micro,50768,0.0459,0.551,0.0265,0.407,2,497
+creator_322,IT,TikTok,skincare,nano,24621,0.0856,0.791,0.0105,0.219,1,191
+creator_323,DE,TikTok,skincare,nano,7564,0.0716,0.557,0.0723,0.178,2,61
+creator_324,FR,Instagram,hair & fragrance,nano,5045,0.0686,0.648,0.0481,0.305,1,60
+creator_325,IT,TikTok,lifestyle,nano,11929,0.0414,0.546,0.0357,0.188,1,154
+creator_326,DE,Instagram,make-up,micro,93862,0.0324,0.825,0.0514,0.273,2,601
+creator_327,ES,TikTok,hair & fragrance,micro,51063,0.0389,0.616,0.0522,0.285,1,832
+creator_328,FR,TikTok,make-up,nano,7069,0.0537,0.798,0.0449,0.269,3,108
+creator_329,UK,Instagram,make-up,nano,13423,0.0403,0.746,0.0691,0.447,1,84
+creator_330,DE,Instagram,lifestyle,micro,22159,0.0347,0.776,0.0334,0.325,3,184
+creator_331,IT,TikTok,skincare,nano,10215,0.0438,0.725,0.051,0.227,3,122
+creator_332,IT,YouTube,make-up,nano,10048,0.0546,0.806,0.0628,0.162,1,97
+creator_333,UK,YouTube,make-up,nano,8651,0.0608,0.73,0.0293,0.41,0,78
+creator_334,ES,YouTube,make-up,micro,110916,0.0409,0.705,0.0103,0.268,4,874
+creator_335,DE,Instagram,make-up,nano,6311,0.0771,0.731,0.0354,0.294,2,90
+creator_336,DE,YouTube,skincare,nano,18627,0.0435,0.608,0.0303,0.293,2,161
+creator_337,DE,TikTok,make-up,nano,3677,0.0461,0.572,0.0625,0.311,1,48
+creator_338,UK,TikTok,skincare,nano,5157,0.0848,0.612,0.0259,0.322,3,90
+creator_339,FR,TikTok,skincare,micro,57980,0.0228,0.784,0.0612,0.314,6,926
+creator_340,FR,TikTok,lifestyle,macro,151867,0.026,0.724,0.0446,0.212,3,1195
+creator_341,UK,TikTok,hair & fragrance,micro,17143,0.0398,0.737,0.0387,0.253,2,164
+creator_342,UK,YouTube,make-up,micro,15852,0.0327,0.613,0.0424,0.269,2,155
+creator_343,DE,Instagram,hair & fragrance,nano,7281,0.0713,0.541,0.0573,0.237,0,79
+creator_344,IT,Instagram,make-up,micro,30346,0.0335,0.573,0.0592,0.248,5,413
+creator_345,ES,Instagram,make-up,macro,495284,0.0291,0.754,0.0512,0.19,3,2235
+creator_346,UK,Instagram,hair & fragrance,nano,10540,0.0448,0.836,0.0509,0.364,2,83
+creator_347,UK,Instagram,hair & fragrance,nano,4954,0.0406,0.708,0.0756,0.245,2,81
+creator_348,UK,Instagram,make-up,nano,18102,0.0646,0.523,0.0469,0.268,2,239
+creator_349,ES,TikTok,skincare,nano,12754,0.064,0.695,0.0412,0.107,1,113
+creator_350,DE,Instagram,skincare,nano,14461,0.044,0.608,0.0515,0.287,3,198
+creator_351,ES,Instagram,skincare,macro,207100,0.0209,0.769,0.0621,0.117,3,1649
+creator_352,FR,YouTube,hair & fragrance,micro,21173,0.031,0.836,0.0408,0.269,4,185
+creator_353,FR,Instagram,hair & fragrance,nano,3406,0.1038,0.736,0.0476,0.125,0,83
+creator_354,DE,TikTok,make-up,nano,14634,0.0692,0.833,0.0332,0.268,3,140
+creator_355,DE,Instagram,skincare,micro,25363,0.0323,0.708,0.0553,0.23,3,360
+creator_356,UK,Instagram,make-up,micro,25541,0.0277,0.598,0.0216,0.354,4,206
+creator_357,DE,TikTok,skincare,nano,3254,0.0615,0.688,0.0368,0.321,4,35
+creator_358,FR,TikTok,make-up,micro,53072,0.0453,0.751,0.0312,0.23,2,574
+creator_359,DE,TikTok,make-up,nano,2544,0.0359,0.748,0.0553,0.303,2,35
+creator_360,FR,Instagram,hair & fragrance,nano,9327,0.0464,0.694,0.0602,0.354,1,91
+creator_361,UK,TikTok,hair & fragrance,macro,1184992,0.015,0.76,0.0513,0.23,7,7569
+creator_362,ES,TikTok,make-up,micro,28335,0.0234,0.817,0.0307,0.22,1,294
+creator_363,IT,TikTok,skincare,nano,3486,0.0834,0.75,0.0456,0.266,2,53
+creator_364,ES,Instagram,make-up,nano,11200,0.045,0.731,0.0524,0.247,3,125
+creator_365,UK,TikTok,lifestyle,nano,3265,0.0596,0.651,0.0538,0.251,1,54
+creator_366,FR,TikTok,hair & fragrance,micro,78122,0.0393,0.722,0.01,0.309,2,885
+creator_367,FR,TikTok,make-up,nano,12300,0.0344,0.754,0.0626,0.298,3,182
+creator_368,IT,YouTube,skincare,micro,160074,0.0303,0.793,0.0582,0.15,4,2011
+creator_369,FR,YouTube,hair & fragrance,nano,4213,0.0806,0.738,0.0522,0.334,2,113
+creator_370,IT,Instagram,make-up,micro,113843,0.0421,0.781,0.029,0.169,2,683
+creator_371,FR,YouTube,hair & fragrance,micro,17952,0.035,0.663,0.0568,0.224,3,316
+creator_372,ES,Instagram,skincare,micro,122400,0.0338,0.741,0.0584,0.172,7,1265
+creator_373,UK,TikTok,make-up,micro,32603,0.0367,0.894,0.0276,0.409,3,437
+creator_374,DE,Instagram,skincare,nano,11917,0.045,0.558,0.0418,0.216,2,88
+creator_375,ES,Instagram,hair & fragrance,micro,18723,0.0277,0.695,0.0283,0.342,5,181
+creator_376,IT,TikTok,hair & fragrance,nano,16181,0.0551,0.764,0.0565,0.351,2,166
+creator_377,FR,TikTok,make-up,nano,12481,0.0465,0.815,0.0533,0.431,2,188
+creator_378,ES,Instagram,skincare,macro,747938,0.0146,0.734,0.0252,0.267,4,4984
+creator_379,UK,YouTube,skincare,nano,4015,0.0448,0.525,0.0287,0.315,1,66
+creator_380,DE,TikTok,skincare,micro,71735,0.0297,0.653,0.0401,0.197,1,753
+creator_381,ES,Instagram,make-up,nano,6619,0.0707,0.609,0.0532,0.175,2,84
+creator_382,IT,TikTok,make-up,nano,9271,0.0323,0.95,0.0225,0.224,1,75
+creator_383,FR,YouTube,skincare,nano,5809,0.0654,0.912,0.056,0.297,4,83
+creator_384,DE,Instagram,make-up,micro,34241,0.042,0.712,0.034,0.355,1,267
+creator_385,UK,TikTok,hair & fragrance,micro,126448,0.0158,0.723,0.0279,0.292,3,1103
+creator_386,UK,Instagram,hair & fragrance,nano,9271,0.0454,0.753,0.0634,0.28,0,108
+creator_387,ES,TikTok,skincare,micro,60492,0.0238,0.763,0.0616,0.211,5,645
+creator_388,UK,Instagram,make-up,nano,6158,0.0387,0.95,0.056,0.304,3,96
+creator_389,FR,TikTok,lifestyle,micro,125834,0.0657,0.699,0.0338,0.29,5,1090
+creator_390,UK,TikTok,hair & fragrance,macro,184462,0.0319,0.666,0.0929,0.376,2,1658
+creator_391,UK,Instagram,skincare,micro,36037,0.0265,0.883,0.064,0.314,4,180
+creator_392,ES,YouTube,make-up,micro,102088,0.0353,0.702,0.0443,0.365,4,678
+creator_393,UK,YouTube,skincare,micro,43338,0.038,0.631,0.0578,0.261,2,365
+creator_394,IT,TikTok,skincare,micro,138428,0.0251,0.763,0.0445,0.216,1,996
+creator_395,DE,TikTok,make-up,micro,38381,0.0353,0.729,0.0707,0.38,0,201
+creator_396,ES,TikTok,make-up,nano,5949,0.0544,0.595,0.0683,0.286,6,69
+creator_397,FR,TikTok,make-up,micro,40152,0.0284,0.594,0.0267,0.3,2,309
+creator_398,FR,YouTube,make-up,macro,824816,0.0209,0.802,0.0148,0.344,1,6519
+creator_399,ES,Instagram,make-up,micro,17861,0.0446,0.761,0.0225,0.291,3,158
+creator_400,UK,TikTok,skincare,nano,10417,0.0295,0.781,0.0247,0.217,3,161
+creator_401,ES,TikTok,lifestyle,micro,48650,0.024,0.927,0.0553,0.392,1,400
+creator_402,FR,TikTok,make-up,nano,3663,0.0738,0.531,0.0404,0.225,2,38
+creator_403,IT,YouTube,make-up,micro,115576,0.0403,0.765,0.0454,0.293,3,875
+creator_404,ES,Instagram,lifestyle,micro,15833,0.04,0.813,0.032,0.323,3,226
+creator_405,UK,Instagram,skincare,nano,11218,0.0405,0.568,0.0623,0.446,3,192
+creator_406,FR,Instagram,make-up,micro,18107,0.0303,0.604,0.0469,0.179,2,166
+creator_407,FR,Instagram,skincare,nano,4311,0.0874,0.842,0.027,0.199,2,34
+creator_408,FR,Instagram,skincare,nano,6071,0.0583,0.754,0.0284,0.33,1,68
+creator_409,ES,TikTok,lifestyle,nano,4256,0.0417,0.734,0.0534,0.431,2,41
+creator_410,FR,Instagram,skincare,micro,72131,0.0192,0.53,0.0205,0.299,3,574
+creator_411,FR,Instagram,hair & fragrance,macro,1028957,0.0228,0.577,0.0526,0.192,3,7444
+creator_412,DE,TikTok,make-up,nano,8382,0.0446,0.861,0.0393,0.295,2,134
+creator_413,FR,Instagram,make-up,nano,7924,0.0506,0.536,0.0511,0.25,2,88
+creator_414,FR,Instagram,lifestyle,nano,7063,0.0562,0.758,0.0353,0.415,0,62
+creator_415,DE,TikTok,lifestyle,nano,8409,0.0581,0.696,0.0168,0.302,1,126
+creator_416,DE,Instagram,lifestyle,nano,13571,0.0526,0.79,0.0499,0.294,2,164
+creator_417,FR,TikTok,make-up,micro,32124,0.0274,0.788,0.019,0.156,3,179
+creator_418,FR,Instagram,skincare,micro,19504,0.0299,0.802,0.021,0.474,1,225
+creator_419,ES,Instagram,make-up,nano,11408,0.0452,0.87,0.0269,0.29,1,110
+creator_420,UK,Instagram,make-up,micro,21682,0.0483,0.739,0.0493,0.309,8,338
+creator_421,FR,TikTok,lifestyle,nano,2788,0.0678,0.573,0.0605,0.328,1,43
+creator_422,IT,Instagram,lifestyle,micro,136785,0.0328,0.886,0.0413,0.334,2,1753
+creator_423,ES,TikTok,skincare,micro,35941,0.0265,0.744,0.0516,0.405,3,233
+creator_424,UK,Instagram,make-up,micro,59329,0.0384,0.445,0.0395,0.374,2,477
+creator_425,FR,Instagram,make-up,nano,5443,0.0532,0.801,0.0369,0.28,3,87
+creator_426,DE,Instagram,hair & fragrance,nano,9826,0.0637,0.845,0.0542,0.398,5,95
+creator_427,ES,YouTube,make-up,micro,102936,0.039,0.846,0.0213,0.43,3,579
+creator_428,ES,YouTube,hair & fragrance,nano,6737,0.1101,0.582,0.0304,0.278,1,152
+creator_429,UK,Instagram,skincare,nano,6041,0.0563,0.694,0.0308,0.352,2,101
+creator_430,FR,TikTok,hair & fragrance,micro,28081,0.026,0.735,0.0543,0.296,0,570
+creator_431,DE,TikTok,lifestyle,nano,8801,0.0515,0.683,0.042,0.209,4,114
+creator_432,FR,TikTok,skincare,micro,40429,0.0401,0.781,0.0326,0.246,3,303
+creator_433,ES,TikTok,make-up,macro,1296780,0.0213,0.713,0.0185,0.302,1,8385
+creator_434,IT,TikTok,skincare,nano,15033,0.0495,0.683,0.01,0.314,1,140
+creator_435,ES,TikTok,hair & fragrance,macro,396473,0.0193,0.733,0.0359,0.189,0,3257
+creator_436,IT,Instagram,skincare,micro,29903,0.0417,0.72,0.0391,0.303,3,240
+creator_437,IT,TikTok,skincare,nano,6588,0.0341,0.743,0.0429,0.352,3,84
+creator_438,FR,Instagram,lifestyle,nano,12708,0.0701,0.716,0.0487,0.285,2,132
+creator_439,FR,Instagram,make-up,micro,18240,0.0515,0.79,0.0487,0.372,3,142
+creator_440,ES,TikTok,lifestyle,nano,9336,0.0497,0.569,0.0329,0.454,2,73
+creator_441,IT,TikTok,skincare,micro,85437,0.0363,0.829,0.0764,0.148,4,550
+creator_442,DE,TikTok,skincare,macro,658412,0.0219,0.728,0.0379,0.165,1,6723
+creator_443,FR,TikTok,lifestyle,micro,11401,0.0338,0.748,0.0674,0.152,6,301
+creator_444,ES,Instagram,make-up,micro,52216,0.0297,0.683,0.0449,0.05,2,393
+creator_445,ES,Instagram,skincare,nano,4031,0.0298,0.809,0.0442,0.253,0,33
+creator_446,ES,TikTok,skincare,micro,107722,0.0409,0.646,0.0638,0.182,4,1467
+creator_447,FR,YouTube,hair & fragrance,micro,55660,0.0455,0.703,0.0497,0.299,1,524
+creator_448,UK,Instagram,hair & fragrance,micro,46142,0.0382,0.688,0.0566,0.094,3,505
+creator_449,FR,YouTube,lifestyle,micro,27947,0.0339,0.826,0.0578,0.253,8,190
+creator_450,UK,Instagram,make-up,nano,3849,0.0478,0.788,0.0212,0.332,1,46
+creator_451,DE,YouTube,make-up,micro,62408,0.029,0.771,0.023,0.245,5,360
+creator_452,ES,Instagram,skincare,nano,10441,0.0524,0.725,0.0343,0.372,1,136
+creator_453,IT,TikTok,make-up,nano,10863,0.0612,0.707,0.0429,0.311,0,141
+creator_454,DE,Instagram,skincare,macro,309379,0.0147,0.678,0.0525,0.291,1,1813
+creator_455,IT,TikTok,hair & fragrance,nano,6475,0.0557,0.804,0.0338,0.296,3,93
+creator_456,UK,TikTok,hair & fragrance,nano,15351,0.0453,0.682,0.0434,0.503,0,124
+creator_457,UK,Instagram,skincare,micro,25118,0.0368,0.833,0.039,0.3,2,388
+creator_458,IT,YouTube,skincare,micro,118649,0.0271,0.603,0.055,0.277,2,1028
+creator_459,UK,TikTok,hair & fragrance,micro,62333,0.0259,0.741,0.0718,0.204,2,525
+creator_460,FR,TikTok,lifestyle,micro,78696,0.0235,0.66,0.0192,0.3,3,400
+creator_461,FR,Instagram,make-up,nano,10974,0.071,0.95,0.0272,0.334,0,109
+creator_462,IT,Instagram,hair & fragrance,nano,7443,0.0577,0.95,0.0677,0.36,3,89
+creator_463,DE,TikTok,skincare,micro,135930,0.024,0.864,0.0556,0.238,1,1421
+creator_464,FR,Instagram,lifestyle,micro,48947,0.0248,0.789,0.0179,0.111,2,484
+creator_465,FR,TikTok,hair & fragrance,nano,14555,0.0614,0.708,0.0412,0.233,2,241
+creator_466,ES,Instagram,hair & fragrance,macro,197023,0.0162,0.583,0.0496,0.137,3,1825
+creator_467,ES,TikTok,hair & fragrance,nano,4080,0.0457,0.788,0.067,0.315,2,62
+creator_468,ES,YouTube,skincare,micro,109602,0.0282,0.669,0.0364,0.245,1,746
+creator_469,FR,YouTube,hair & fragrance,macro,117149,0.0151,0.803,0.0622,0.348,1,1004
+creator_470,FR,Instagram,skincare,micro,101189,0.0379,0.718,0.0597,0.188,3,804
+creator_471,DE,Instagram,make-up,nano,6476,0.0425,0.511,0.037,0.289,1,91
+creator_472,IT,TikTok,lifestyle,nano,13179,0.0438,0.652,0.0481,0.307,1,123
+creator_473,DE,TikTok,lifestyle,micro,34363,0.0568,0.838,0.0581,0.225,5,331
+creator_474,DE,YouTube,make-up,nano,10891,0.0576,0.698,0.0398,0.27,2,113
+creator_475,FR,Instagram,skincare,nano,14675,0.0652,0.678,0.0509,0.302,1,199
+creator_476,UK,Instagram,make-up,micro,64198,0.044,0.614,0.0243,0.253,1,651
+creator_477,FR,TikTok,hair & fragrance,nano,3581,0.0504,0.664,0.075,0.245,2,63
+creator_478,UK,Instagram,hair & fragrance,micro,20972,0.0478,0.609,0.0404,0.234,3,281
+creator_479,UK,Instagram,make-up,micro,186018,0.0333,0.643,0.0653,0.275,3,1511
+creator_480,FR,Instagram,hair & fragrance,micro,72558,0.0374,0.828,0.03,0.289,3,555
+creator_481,DE,TikTok,make-up,micro,148698,0.0208,0.61,0.0535,0.306,1,1246
+creator_482,IT,YouTube,make-up,nano,9074,0.0348,0.823,0.0103,0.26,1,159
+creator_483,FR,YouTube,lifestyle,nano,7779,0.0569,0.59,0.0225,0.272,2,75
+creator_484,UK,Instagram,make-up,nano,3232,0.0641,0.774,0.0421,0.362,4,52
+creator_485,DE,Instagram,hair & fragrance,micro,34196,0.0293,0.711,0.0514,0.371,7,196
+creator_486,UK,Instagram,make-up,macro,543735,0.0236,0.751,0.0604,0.187,3,4025
+creator_487,UK,Instagram,hair & fragrance,micro,132386,0.0401,0.594,0.045,0.304,2,939
+creator_488,ES,YouTube,skincare,nano,11605,0.0872,0.756,0.0343,0.243,4,190
+creator_489,UK,Instagram,make-up,nano,7517,0.0803,0.592,0.0385,0.25,1,100
+creator_490,ES,TikTok,make-up,micro,25600,0.0505,0.753,0.0436,0.223,2,337
+creator_491,IT,Instagram,make-up,nano,5939,0.0482,0.896,0.0379,0.202,2,63
+creator_492,FR,Instagram,skincare,nano,12069,0.091,0.857,0.0257,0.242,3,101
+creator_493,DE,TikTok,skincare,micro,29488,0.0323,0.778,0.0472,0.367,2,294
+creator_494,UK,Instagram,make-up,micro,34396,0.0326,0.776,0.0267,0.407,2,302
+creator_495,IT,Instagram,skincare,micro,97482,0.0284,0.764,0.0578,0.23,2,746
+creator_496,UK,TikTok,lifestyle,micro,152967,0.0314,0.645,0.0298,0.134,3,1771
+creator_497,UK,TikTok,make-up,micro,60280,0.039,0.692,0.0513,0.189,5,592
+creator_498,ES,Instagram,hair & fragrance,micro,22095,0.034,0.766,0.0723,0.299,0,135
+creator_499,ES,TikTok,make-up,nano,14864,0.0465,0.95,0.01,0.555,1,156
+creator_500,DE,Instagram,make-up,nano,3777,0.0434,0.815,0.0198,0.273,2,52

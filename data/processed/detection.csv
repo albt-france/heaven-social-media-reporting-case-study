@@ -1,0 +1,9 @@
+event_id,event,detected,where,evidence,decision
+1,metric_definition_change,True,Instagram from 2026-02-01,raw views per reach x2.2 after the break; harmonised views per reach x0.996,"use harmonised views (impressions before the change, new views after)"
+2,sponsored_mixed_in_organic,True,IT,"228 posts labelled organic have ad spend; median 'organic' reach rate x1.26 the other markets as exported, x1.00 after correction",sponsored = tool label OR ad spend > 0; organic KPIs on organic posts only
+3,timezone_utc_export,True,DE,12% of posts before 08:00 as exported vs 2% elsewhere; export setting = UTC,convert every export to market local time before any 'best time to post'
+4,false_signal_contest,True,ES Instagram,"followers +37% in 2026-03; ER per follower -19%, ER per reach +4% (medians, 6 months after vs before)",NOT raised as a content problem: report ER per reach; explain the giveaway followers
+5,suspect_creator,True,creator_022,"creator_022: score 0, max weekly growth +163%, ER 0.28% vs tier median 1.91%",excluded from recommendations until audience is audited
+6,negative_sentiment_spike,True,FR 2026-10,net sentiment 2 vs 33 usual (z -5.2); stock / availability in 76% of negative comments vs 50% before,attention point: stock-out of a hero product; align community replies with supply dates
+7,format_effect_by_market,True,"short video ahead: ES, FR; carousel ahead: DE",DE x0.57 [0.53-0.62]; ES x1.19 [1.1-1.28]; FR x1.38 [1.27-1.51]; IT x1.0 [0.9-1.1]; UK x0.9 [0.83-0.98],"format mix set per market, not one global rule"
+8,global_post_duplicates,True,Instagram,51 global posts appear 255 times; group reach overstated by 11.1% without deduplication,count each native post id once in group totals; keep it out of market comparisons

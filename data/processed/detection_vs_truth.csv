@@ -1,0 +1,9 @@
+event_id,event,found
+1,metric_definition_change,True
+2,sponsored_mixed_in_organic,True
+3,timezone_utc_export,True
+4,false_signal_contest,True
+5,suspect_creator,True
+6,negative_sentiment_spike,True
+7,format_effect_by_market,True
+8,global_post_duplicates,True

@@ -1,0 +1,10 @@
+community,size,main_market,main_market_share,main_niche,main_niche_share,median_er,macro_share,mention_our_account_share,hub
+0,91,ES,1.0,make-up,0.41,0.0436,0.1,0.76,creator_024
+1,81,DE,1.0,skincare,0.48,0.0415,0.07,0.58,creator_326
+2,73,IT,1.0,skincare,0.44,0.0404,0.07,0.75,creator_332
+3,71,UK,1.0,skincare,0.52,0.0405,0.11,0.61,creator_030
+4,47,FR,1.0,make-up,1.0,0.0465,0.04,0.81,creator_262
+5,45,FR,1.0,skincare,1.0,0.0379,0.07,0.71,creator_287
+6,42,UK,1.0,make-up,1.0,0.0401,0.07,0.55,creator_497
+7,27,FR,1.0,lifestyle,1.0,0.0351,0.22,0.81,creator_175
+8,23,FR,1.0,hair & fragrance,1.0,0.0393,0.17,0.78,creator_366

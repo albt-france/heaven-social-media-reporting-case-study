@@ -1,0 +1,14 @@
+platform,native_metric,harmonised_metric,note
+Facebook,reactions/comments/shares,engagements,reactions = likes; no saves
+Facebook,views,views,All displays (Meta views metric)
+Instagram,impressions,views,All displays; available until the definition change
+Instagram,likes/comments/shares/saves,engagements,Sum of the four interactions
+Instagram,reach,reach,Unique accounts that saw the content
+Instagram,views (new),views,After the change: every display of every format
+Instagram,views (old),video_plays,Before the change: video plays only -> NOT used as views
+TikTok,likes/comments/shares/favorites,engagements,favorites = saves
+TikTok,video views,views,Plays started (organic + paid in the account export)
+X,impressions,views,All displays
+X,likes/replies/reposts/bookmarks,engagements,"replies = comments, reposts = shares, bookmarks = saves"
+YouTube,likes/comments,engagements,no shares or saves in the export
+YouTube,views,views,Counted views (YouTube rules)

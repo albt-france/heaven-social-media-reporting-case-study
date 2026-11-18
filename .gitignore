@@ -1,0 +1,12 @@
+.venv/
+.env
+.tmp/
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+data/raw/
+data/_hidden_truth.csv
+DECISIONS.md
+HANDOFF*.md
+*.duckdb
+*.duckdb.wal
