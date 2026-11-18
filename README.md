@@ -10,16 +10,8 @@ retailer": it does not describe any real brand, heaven, Hopscotch Groupe or any 
 
 ## Deliverables
 
-| | File |
-|---|---|
-| 8-page case study (PDF) | [docs/heaven_social_media_reporting_case_study.pdf](docs/heaven_social_media_reporting_case_study.pdf) |
-| Monthly client report, October 2026 (PowerPoint, 10 slides, agency format) | [reports/monthly_report_oct2026.pptx](reports/monthly_report_oct2026.pptx) ([PDF export](reports/monthly_report_oct2026.pdf)) |
-| Interactive dashboard (single HTML file, works offline) | [dashboard/social_dashboard.html](dashboard/social_dashboard.html) |
-| Analysis notebook | [notebooks/social_analysis.ipynb](notebooks/social_analysis.ipynb) |
-| KPI framework (harmonised definitions, platform mapping, traps) | [docs/KPI_FRAMEWORK.md](docs/KPI_FRAMEWORK.md) |
-| Methodology (collection, analysis, reporting, what we do not compare) | [docs/METHODOLOGY.md](docs/METHODOLOGY.md) |
-| Influencer analysis guide (tiers, audience quality, community graphs) | [docs/INFLUENCER_ANALYSIS_GUIDE.md](docs/INFLUENCER_ANALYSIS_GUIDE.md) |
-| Monthly data-quality checklist | [docs/DATA_QUALITY_CHECKLIST.md](docs/DATA_QUALITY_CHECKLIST.md) |
+- **8-page case study (PDF)**: [docs/heaven_social_media_reporting_case_study.pdf](docs/heaven_social_media_reporting_case_study.pdf)
+- **Interactive dashboard**: [albt-france.github.io/heaven-social-media-reporting-case-study/dashboard/social_dashboard.html](https://albt-france.github.io/heaven-social-media-reporting-case-study/dashboard/social_dashboard.html)
 
 ![Dashboard, overview by market](docs/img/dashboard_overview.png)
 
